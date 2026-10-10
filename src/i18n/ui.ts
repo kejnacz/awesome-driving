@@ -35,16 +35,16 @@ export const ui = {
   },
   homeDescription: {
     en: "DriveWay driving school in Kęty. Category B, AM, A, A1 and A2 courses.",
-    pl: "DriveWay Szkoła jazdy w Proszowicach. Kursy kategorii A, B, C, D, E",
+    pl: "DriveWay Szkoła jazdy w Proszowicach. Kursy kategorii B, C, C+E ",
   },
-  homeKicker: { en: "Kęty · Oświęcim County · Since", pl: "Proszowice · od" },
+  homeKicker: { en: "Kęty · Oświęcim County · Since", pl: "od" },
   homeLead: {
     en: "From the first lesson to the exam, we teach you to drive with confidence, awareness, and without unnecessary stress.",
     pl: "Od pierwszej lekcji do egzaminu, uczymy cię prowadzić pewnie, świadomie i bez niepotrzebnego stresu.",
   },
   homeCategories: {
     en: "Category B, AM, A, A1 and A2 courses in Kęty.",
-    pl: "Kursy kategorii A, B, C, D, E w Proszowicach",
+    pl: "Kursy kategorii B, C, C+E",
   },
   nextEnglish: { en: "Next course:", pl: "Najbliższy kurs:" },
   seatsLeft: { en: "Seats left:", pl: "Wolne miejsca:" },
