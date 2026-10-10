@@ -44,7 +44,7 @@ export const ui = {
   },
   homeCategories: {
     en: "Category B, AM, A, A1 and A2 courses in Kęty.",
-    pl: "Kursy kategorii B, C, C+E",
+    pl: "Kursy kategorii B",
   },
   nextEnglish: { en: "Next course:", pl: "Najbliższy kurs:" },
   seatsLeft: { en: "Seats left:", pl: "Wolne miejsca:" },
