@@ -35,12 +35,12 @@ export const ui = {
   },
   homeDescription: {
     en: "DriveWay driving school in Kęty. Category B, AM, A, A1 and A2 courses.",
-    pl: "DriveWay Szkoła jazdy w Kętach. Kursy kategorii B, AM, A, A1, A2.",
+    pl: "DriveWay Szkoła jazdy w Trzebinii. Kursy kategorii B, AM, A, A1, A2.",
   },
-  homeKicker: { en: "Kęty · Oświęcim County · Since", pl: "Kęty · powiat oświęcimski · od" },
+  homeKicker: { en: "Kęty · Oświęcim County · Since", pl: "Trzebinia · Od 2013 roku" },
   homeLead: {
     en: "From the first lesson to the exam, we teach you to drive with confidence, awareness, and without unnecessary stress.",
-    pl: "Od pierwszej lekcji do egzaminu, uczymy Cię prowadzić pewnie, świadomie i bez niepotrzebnego stresu.",
+    pl: "Wysoka zdawalność - indywidualne podejście - profesjonalne szkolenie - dogodne terminy.",
   },
   homeCategories: {
     en: "Category B, AM, A, A1 and A2 courses in Kęty.",
@@ -49,7 +49,7 @@ export const ui = {
   nextEnglish: { en: "Next course:", pl: "Najbliższy kurs:" },
   seatsLeft: { en: "Seats left:", pl: "Wolne miejsca:" },
   nextIntake: { en: "Next intake", pl: "Najbliższy nabór" },
-  callForDate: { en: "Call for the next start date", pl: "Najbliższy kurs: czwartek, 1 października 2026 · Wolne miejsca: 2" },
+  callForDate: { en: "Call for the next start date", pl: "Najbliższy kurs: Poniedziałek, 2 Listopada 2026 · Wolne miejsca: 2" },
   priceLine: { en: "for the course · medical", pl: "za kurs · badania" },
   extraWord: { en: "extra · state exam fees extra", pl: "osobno · egzamin WORD osobno" },
   skillsEyebrow: { en: "Skills", pl: "Przebieg" },
