@@ -5,7 +5,7 @@ export const school = {
   legalName: 'Kowalski Andrzej Ośrodek Szkolenia Kierowców F.H.-U. "DriveWay"',
   nip: "5743907432",
   regon: "851766105",
-  founded: 2013,
+  founded: 2001,
   phone: {
     office: "+48 67 432 08 21",
     mobile: "+48 432 654 423",
