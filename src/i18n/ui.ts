@@ -35,12 +35,12 @@ export const ui = {
   },
   homeDescription: {
     en: "DriveWay driving school in Kęty. Category B, AM, A, A1 and A2 courses.",
-    pl: "DriveWay Szkoła jazdy w Trzebinii. Kursy kategorii B, AM, A, A1, A2.",
+    pl: "DriveWay Szkoła jazdy w Proszowicach. Kursy kategorii A, B, C, D, E",
   },
-  homeKicker: { en: "Kęty · Oświęcim County · Since", pl: "Trzebinia · od" },
+  homeKicker: { en: "Kęty · Oświęcim County · Since", pl: "Proszowice · od" },
   homeLead: {
     en: "From the first lesson to the exam, we teach you to drive with confidence, awareness, and without unnecessary stress.",
-    pl: "Wysoka zdawalność - indywidualne podejście - profesjonalne szkolenie - dogodne terminy.",
+    pl: "Od pierwszej lekcji do egzaminu, uczymy cię prowadzić pewnie, świadomie i bez niepotrzebnego stresu.",
   },
   homeCategories: {
     en: "Category B, AM, A, A1 and A2 courses in Kęty.",
