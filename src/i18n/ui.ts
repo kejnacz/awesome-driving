@@ -35,7 +35,7 @@ export const ui = {
   },
   homeDescription: {
     en: "DriveWay driving school in Kęty. Category B, AM, A, A1 and A2 courses.",
-    pl: "DriveWay Szkoła jazdy w Brzezince. Kursy kategorii B",
+    pl: "DriveWay Szkoła jazdy w Brzezince. Kursy kategorii B, A, A1, A2",
   },
   homeKicker: { en: "Kęty · Oświęcim County · Since", pl: "Katowice" },
   homeLead: {
