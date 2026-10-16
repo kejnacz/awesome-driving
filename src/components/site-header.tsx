@@ -56,7 +56,7 @@ export function SiteHeader({ locale }: { locale: Locale }) {
           aria-label={school.name}
         >
           <span className="min-[480px]:hidden">DriveWay</span>
-          <span className="hidden min-[480px]:inline">Szkoła jazdy Best L</span>
+          <span className="hidden min-[480px]:inline">Ośrodek Szkolenia Kierowców Lider</span>
         </LocaleLink>
         <nav className="hidden items-center gap-5 text-sm font-medium lg:flex" aria-label="Primary">
           {nav.map((item) => (
